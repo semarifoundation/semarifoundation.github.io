@@ -1,3 +1,3 @@
-<a href="https://www.orthemes.com"><img src="https://hub.orthemes.com/static/orthemes_logo_dark.svg" alt="orthemes Logo"></a>
-<div><b>Blogger Themes & Android Apps Designer and Developer</b></p>
-<p>Hosting Projects Files and Workers by <a href="https://www.orthemes.com">Orthemes</a></p>
+<a href="https://www.semari.or.id"><img src="https://baznas.go.id/assets/images/sedekah/sedekahtandasyukur.png" alt="Sedekah Membangun Negeri"></a>
+<div><b>Blogger Themes Semari Foundation</b></p>
+<p>Hosting Projects Files and Workers by <a href="https://www.semari.or.id">Semari Foundation</a></p>
